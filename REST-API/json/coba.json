@@ -1,0 +1,30 @@
+[
+{
+
+	"nama" : "Cintara Surya Elidanto",
+	"umur" : 16,
+	"nis" : "16155",
+	"lulus" : true,
+	"hobi" : ["coding", "main dota 2", "membaca", "liat youtube", "liat anime"],
+	"pembimbing" : {
+		"pembimbing1" : "Surya Elidanto",
+		"pembimbing2" : "Adi Setiawan"
+	}
+
+
+},
+{
+
+	"nama" : "Surya Elidanto",
+	"umur" : 16,
+	"nis" : "16155",
+	"lulus" : true,
+	"hobi" : ["coding", "main dota 2", "membaca", "liat youtube", "liat anime"],
+	"pembimbing" : {
+		"pembimbing1" : "Surya Elidanto",
+		"pembimbing2" : "Adi Setiawan"
+	}
+
+
+}
+]
